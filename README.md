@@ -1,0 +1,2 @@
+# textclassification_kerasSequential
+Text Classification using tensorflow
